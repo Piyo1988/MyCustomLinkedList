@@ -1,0 +1,14 @@
+C:\Users\Nithya\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.exe
+C:\Users\Nithya\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.deps.json
+C:\Users\Nithya\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.json
+C:\Users\Nithya\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\Nithya\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\Nithya\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfo.cs
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\Nithya\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.genruntimeconfig.cache
